@@ -161,8 +161,8 @@ footer{
     justify-content: stretch; 
   }
   .grid:nth-child(9){grid-column-start: 1; grid-column-end: 3};
-   .grid figure img{border-radius: 25px;
-  }
+   .grid figure img{border-radius: 25px};
+  
   li{
    display: inline-block;
     width: 30%;
