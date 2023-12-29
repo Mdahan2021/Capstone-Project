@@ -86,7 +86,7 @@
   to {opacity: 1}
 }
 
-body{background-color: lightblue;}
+body{background-color:lightblue;}
 
 header{
   margin-left: 2%;
@@ -169,7 +169,7 @@ footer{
     text-align: center;
   }
   a{text-decoration: none;}
-  body{background-color: purple;}
+  body{background-color:purple;}
 }
 
 
@@ -179,5 +179,5 @@ footer{
   justify-content: stretch;
     :nth-child(9){grid-column-start: 3; grid-column-end: 3}
   }
-  body{background-color: green;}
+  body{background-color:green;}
 }
