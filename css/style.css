@@ -176,5 +176,5 @@ footer{
   justify-content: stretch;
   :nth-child(9){grid-column-end: span 1;}
   }
-  body{background-color: #C6F6C6;}
+  body{background-color: #E7FBE7;}
 }
