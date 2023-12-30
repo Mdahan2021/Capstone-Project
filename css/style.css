@@ -160,8 +160,8 @@ footer{
   grid-template-columns: 45% 45%;
     justify-content: stretch; 
   }
-  .grid:nth-child(9){span: 2}
-   .grid figure img{border-radius: 25px}
+  #fig9{span 2}
+ .grid figure img{border-radius: 25px}
   li{
    display: inline-block;
     width: 30%;
