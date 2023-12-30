@@ -112,7 +112,7 @@ a:hover{background-color: purple;}
 
 a:focus{background-color: red;}
 
-h1{color: red;
+h1{
   text-align: center;
   margin-left:2%;
   background-color: white;
