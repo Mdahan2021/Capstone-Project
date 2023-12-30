@@ -157,9 +157,8 @@ footer{
   .grid{
   grid-template-columns: 45% 45%;
     justify-content: stretch; 
-    :nth-child(3n){grid-column-end: span 2;}
+    :nth-child(9){grid-column-end: span 2;}
   }
-  
  .grid figure img{border-radius: 25px}
   li{
    display: inline-block;
@@ -175,7 +174,7 @@ footer{
   .grid{
   grid-template-columns: 30% 30% 30%;
   justify-content: stretch;
+  :nth-child(9){grid-column-end: span 1;}
   }
- .grid:nth-child(9){grid-column-end: span 1;}
   body{background-color:green;}
 }
