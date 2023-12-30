@@ -1,4 +1,4 @@
-* {box-sizing:border-box}
+o* {box-sizing:border-box}
 
 /* Slideshow container */
 .slideshow-container {
@@ -115,14 +115,13 @@ a:focus{background-color: red;}
 h1{color: red;
   text-align: center;
   margin-left:2%;
-  background-color: red;
+  background-color: yellow;
   animation-name: background-changing;
   animation-duration: 2s;
   animation-iteration-count: infinite;
 }
 @keyframes background-changing {
-  0%   {background-color: red;}
-  25%  {background-color: yellow;}
+  0%  {background-color: yellow;}
   50%  {background-color: blue;}
   100% {background-color: green;}
 }
