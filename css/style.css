@@ -160,7 +160,7 @@ footer{
   grid-template-columns: 45% 45%;
     justify-content: stretch; 
   }
-  #fig9{grid-column-start: 1; grid-column-end: 3}
+  #fig9{grid-column-start: 1; grid-column-end: 2}
  .grid figure img{border-radius: 25px}
   li{
    display: inline-block;
